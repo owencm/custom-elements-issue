@@ -1,2 +1,3 @@
-# custom-elements-issue
-Repo reproducing a custom elements issue in Create-React-App
+Note: this bug repro is for Create React App.
+
+non-react-demo.html demonstrates the expected behavior.
